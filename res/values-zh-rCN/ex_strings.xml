@@ -27,23 +27,17 @@
   <string name="changelog_summary">最近更新</string>
   <string name="changelog_loading">正在加载日志 \u2026</string>
   <string name="changelog_error">无法加载更新日志</string>
-  <!-- About AospExtended -->
+  <!-- About ClickProkect -->
   <string name="aex_about_info">关于我们</string>
   <string name="aex_about_summary">项目及团队简介</string>
   <string name="aex_about_info_summary">ClickProject 是一个基于 AOSP 的 ROM 。由于是基于 AOSP，本 ROM 可提供流畅、无卡顿的安卓体验。我们将在未来的更新中，努力添加更多功能，使其更加完善。</string>
-  <string name="dev_info">关于 AospExtended</string>
+  <string name="dev_info">关于 ClickProject</string>
   <string name="github">Github</string>
   <string name="github_description">查看我们的源代码</string>
-  <string name="gplus">Google+</string>
-  <string name="gplus_description">加入我们的 G+ 社区</string>
-  <string name="telegram">Telegram</string>
-  <string name="telegram_description">订阅我们的 Telegram 频道</string>
-  <string name="web">下载中心</string>
-  <string name="web_description">访问我们的下载门户</string>
-  <string name="help_translate">翻译</string>
-  <string name="help_translate_description">翻译成您使用的语言，请访问我们的 Crowdin</string>
-  <string name="walls">壁纸</string>
-  <string name="walls_description">下载用户贡献的壁纸</string>
+  <string name="weibo">微博</string>
+  <string name="weibo_description">订阅我们的微博频道</string>
+  <string name="web">项目主页</string>
+  <string name="web_description">访问我们的项目主页</string>
   <!-- Members -->
   <string name="leads">主创人员</string>
   <string name="team_1">Zeco Zhang</string>

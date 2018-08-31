@@ -14,7 +14,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, Extended version -->
-  <string name="extended_version">Extended 版本</string>
+  <string name="extended_version">ClickProject 版本</string>
   <string name="extended_version_default">不明</string>
   <!-- About phone screen, build date -->
   <string name="build_date">編譯日期</string>
@@ -27,41 +27,28 @@
   <string name="changelog_summary">最近更新</string>
   <string name="changelog_loading">正在載入更新日誌\u2026</string>
   <string name="changelog_error">無法載入更新日誌</string>
-  <!-- About AospExtended -->
+  <!-- About ClickProject -->
   <string name="aex_about_info">關於我們</string>
   <string name="aex_about_summary">介紹及團隊簡介</string>
-  <string name="aex_about_info_summary">AospExtended 是一個根據 AOSP 的 rom，並提供原生 UI/UX 及各種自訂功能和底層主題引擎。此項目是透過 cherry-pick 以及其他各個項目的各種 Commit 完成的。由於是根據 AOSP，Rom 可以提供現成流暢、無卡頓的 Android 體驗。我們將在未來的更新中，努力增加更多功能，並使其更加完善。&#35;BeExtended</string>
+  <string name="aex_about_info_summary">ClickProject 是一個根據 AOSP 的 rom。由於是根據 AOSP，Rom 可以提供現成流暢、無卡頓的 Android 體驗。我們將在未來的更新中，努力增加更多功能，並使其更加完善。</string>
   <string name="dev_info">關於 AospExtended</string>
   <string name="github">Github</string>
   <string name="github_description">檢視我們的程式原始碼</string>
-  <string name="gplus">Google+</string>
-  <string name="gplus_description">加入我們的 G+ 社群</string>
-  <string name="telegram">Telegram</string>
-  <string name="telegram_description">訂閱我們的 Telegram 頻道</string>
-  <string name="web">下載中心</string>
-  <string name="web_description">瀏覽我們的下載頁面</string>
-  <string name="help_translate">翻譯</string>
-  <string name="help_translate_description">翻譯成您所使用的語言，請瀏覽我們的 Crowdin</string>
-  <string name="walls">桌布</string>
-  <string name="walls_description">取得各個使用者貢獻的桌布</string>
+  <string name="weibo">微博</string>
+  <string name="weibo_description">訂閱我們的微博頻道</string>
+  <string name="web">項目主頁</string>
+  <string name="web_description">訪問我們的項目主頁</string>
+  <!-- Members -->
   <string name="leads">團隊領導</string>
-  <string name="team_1">Shubham Singh &#40;ishubhamsingh&#41;</string>
+  <string name="team_1">Zeco Zhang</string>
   <string name="team1_description">所有人/首席開發人員</string>
-  <string name="team_2">Aman Kumar &#40;FireLord&#41;</string>
+  <string name="team_2">ELioie Zhao</string>
   <string name="team2_description">開發人員</string>
-  <string name="team_3">Amol Amrit</string>
-  <string name="team3_description">管理者和業餘開發人員</string>
-  <string name="team_4">Henrique Silva &#40;jhenrique09&#41;</string>
-  <string name="team4_description">開發人員</string>
   <string name="designers">設計師</string>
-  <string name="designer_1">Yasan &#40;AlienCreature7&#41;</string>
-  <string name="designer1_description">討論區橫幅、標誌、桌布</string>
-  <string name="designer_2">Savio &#40;Wizper99&#41;</string>
-  <string name="designer2_description">快速設定/快速滑動標誌</string>
-  <string name="designer_3">Jesus R &#40;KrapK&#41;</string>
-  <string name="designer3_description">桌布、開機動畫</string>
-  <string name="designer_4">Harsh V23</string>
-  <string name="designer4_description">擴展使用者介面, 圖示</string>
+  <string name="designer_1">Zeco Zhang</string>
+  <string name="designer1_description">什麼也沒設計</string>
+  <string name="designer_2">ELioie Zhao</string>
+  <string name="designer2_description">打雜/鈴聲</string>
   <string name="maintainers">維護人員</string>
   <string name="maintainers_title">官方維護者</string>
   <string name="maintainers_summary">官方支援的裝置及其各自的維護者。</string>
@@ -72,7 +59,7 @@
   <string name="devices_list_empty">清單是空的，輕觸圖示以重新載入</string>
   <string name="reload_list">重新載入</string>
   <!-- AEX OTA -->
-  <string name="aex_ota_title">AEX 更新</string>
+  <string name="aex_ota_title">ROM 更新</string>
   <string name="aex_ota_summary">下載最新版</string>
   <!-- Expanded desktop -->
   <string name="power_menu_expanded_desktop">延伸桌面</string>
