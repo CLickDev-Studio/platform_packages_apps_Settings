@@ -14,7 +14,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, Extended version -->
-  <string name="extended_version">Extended 版本</string>
+  <string name="extended_version">ClickProject 版本</string>
   <string name="extended_version_default">未知</string>
   <!-- About phone screen, build date -->
   <string name="build_date">编译日期</string>
@@ -30,7 +30,7 @@
   <!-- About AospExtended -->
   <string name="aex_about_info">关于我们</string>
   <string name="aex_about_summary">项目及团队简介</string>
-  <string name="aex_about_info_summary">AospExtended 是一个基于 AOSP 的 ROM ，此 ROM 可提供原生 UI/UX 、各种自定义功能和Substratum主题引擎。本项目是通过 cherry-pick 其他各个项目的各种 commit 完成的。由于是基于 AOSP，本 ROM 可提供流畅、无卡顿的安卓体验。我们将在未来的更新中，努力添加更多功能，使其更加完善。&#35;BeExtended</string>
+  <string name="aex_about_info_summary">ClickProject 是一个基于 AOSP 的 ROM 。由于是基于 AOSP，本 ROM 可提供流畅、无卡顿的安卓体验。我们将在未来的更新中，努力添加更多功能，使其更加完善。</string>
   <string name="dev_info">关于 AospExtended</string>
   <string name="github">Github</string>
   <string name="github_description">查看我们的源代码</string>
@@ -44,24 +44,17 @@
   <string name="help_translate_description">翻译成您使用的语言，请访问我们的 Crowdin</string>
   <string name="walls">壁纸</string>
   <string name="walls_description">下载用户贡献的壁纸</string>
+  <!-- Members -->
   <string name="leads">主创人员</string>
-  <string name="team_1">Shubham Singh &#40;ishubhamsingh&#41;</string>
+  <string name="team_1">Zeco Zhang</string>
   <string name="team1_description">所有人/首席开发者</string>
-  <string name="team_2">Aman Kumar &#40;FireLord&#41;</string>
-  <string name="team2_description">开发者</string>
-  <string name="team_3">Amol Amrit</string>
-  <string name="team3_description">管理者和业余开发人员</string>
-  <string name="team_4">Henrique Silva &#40;jhenrique09&#41;</string>
-  <string name="team4_description">开发者</string>
+  <string name="team_2">ELioie Zhao</string>
+  <string name="team2_description">管理者和业余开发人员</string>
   <string name="designers">设计师</string>
-  <string name="designer_1">Yasan &#40;AlienCreature7&#41;</string>
-  <string name="designer1_description">论坛帖子横幅、标志、壁纸</string>
-  <string name="designer_2">Savio &#40;Wizper99&#41;</string>
-  <string name="designer2_description">快速设置/Fling 标志</string>
-  <string name="designer_3">Jesus R &#40;KrapK&#41;</string>
-  <string name="designer3_description">壁纸、开机动画</string>
-  <string name="designer_4">Harsh V23</string>
-  <string name="designer4_description">扩展设置界面、图标</string>
+  <string name="designer_1">Zeco Zhang</string>
+  <string name="designer1_description">啥子也没设计</string>
+  <string name="designer_2">ELioie Zhao</string>
+  <string name="designer2_description">一个瞎搞总策划的/铃声</string>
   <string name="maintainers">维护者</string>
   <string name="maintainers_title">官方维护人员</string>
   <string name="maintainers_summary">官方支持的设备及其各自的维护者。</string>
@@ -72,7 +65,7 @@
   <string name="devices_list_empty">列表为空，点击图标重新加载</string>
   <string name="reload_list">重新加载</string>
   <!-- AEX OTA -->
-  <string name="aex_ota_title">AEX 更新</string>
+  <string name="aex_ota_title">ROM 更新</string>
   <string name="aex_ota_summary">获取最新版本</string>
   <!-- Expanded desktop -->
   <string name="power_menu_expanded_desktop">扩展桌面</string>
