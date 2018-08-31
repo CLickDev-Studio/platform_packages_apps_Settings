@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2017 AospExtended ROM Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+     http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- About phone screen, Extended version -->
+    <string name="extended_version">Extended version</string>
+    <string name="extended_version_default">Unknown</string>
+
+    <!-- About phone screen, build date -->
+    <string name="build_date">Build date</string>
+    <string name="build_date_default">2015-01-01-0000</string>
+
+    <!-- Development Settings -->
+    <!-- Dev Options Enabled by Default -->
+    <string name="show_dev_already_enabled">No Need, Development settings are enabled by default.</string>
+
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Platform</string>
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">Total RAM</string>
+
+    <!-- Changelog -->
+    <string name="changelog_title">Changelog</string>
+    <string name="changelog_summary">Recent Changes</string>
+    <string name="changelog_loading">Loading changelog\u2026</string>
+    <string name="changelog_error">Unable to load changelog</string>
+
+    <!-- About AospExtended -->
+    <string name="aex_about_info">About us</string>
+    <string name="aex_about_summary">Our introduction and our team</string>
+    <string name="aex_about_info_summary">AospExtended is an AOSP based rom which provides stock UI/UX with various customisations features along with the Substratum theme engine. The project has been made by cherry-picking various commits from various other projects. Being based on AOSP it provides a smooth and lag-free experience out of the box. We will constantly try to add more features and make it even better in future updates.&#35;BeExtended</string>
+    <string name="dev_info">About AospExtended</string>
+    <string name="github">Github</string>
+    <string name="github_description">View our source code</string>
+    <string name="gplus">Google+</string>
+    <string name="gplus_description">Join our G+ community</string>
+    <string name="telegram">Telegram</string>
+    <string name="telegram_description">Subscribe to our Telegram channel</string>
+    <string name="web">Download Center</string>
+    <string name="web_description">Visit our download portal</string>
+    <string name="help_translate">Translations</string>
+    <string name="help_translate_description">Translate to your language, visit our Crowdin</string>
+    <string name="walls">Wallpapers</string>
+    <string name="walls_description">Get wallpapers contributed by various users</string>
+    <string name="leads">Team Leads</string>
+    <string name="team_1">Shubham Singh &#40;ishubhamsingh&#41;</string>
+    <string name="team1_description">Owner/Lead Developer</string>
+    <string name="team_2">Aman Kumar &#40;FireLord&#41;</string>
+    <string name="team2_description">Developer</string>
+    <string name="team_3">Amol Amrit</string>
+    <string name="team3_description">Moderator and an Amateur Developer</string>
+    <string name="team_4">Henrique Silva &#40;jhenrique09&#41;</string>
+    <string name="team4_description">Developer</string>
+    <string name="designers">Designers</string>
+    <string name="designer_1">Yasan &#40;AlienCreature7&#41;</string>
+    <string name="designer1_description">Thread Banners, Logos, Wallpapers</string>
+    <string name="designer_2">Savio &#40;Wizper99&#41;</string>
+    <string name="designer2_description">QS/Fling logos</string>
+    <string name="designer_3">Jesus R &#40;KrapK&#41;</string>
+    <string name="designer3_description">Wallpapers, Bootanimations</string>
+    <string name="designer_4">Harsh V23</string>
+    <string name="designer4_description">Extensions UI, Icons</string>
+    <string name="designer_5">Gaurav (allstargaurav)</string>
+    <string name="designer5_description">Extensions UI, Icons and Clock styles</string>
+    <string name="maintainers">Maintainers</string>
+    <string name="maintainers_title">Official maintainers</string>
+    <string name="maintainers_summary">Officially supported devices and their respective maintainers.</string>
+
+    <!-- Maintainer section -->
+    <string name="maintainer_description">Maintainer: %1$s</string>
+    <string name="loading_devices">Loading devices list...</string>
+    <string name="loading_devices_failed">Failed to load devices list</string>
+    <string name="devices_list_empty">List is empty, tap the icon to reload</string>
+    <string name="reload_list">Reload</string>
+
+    <!-- AEX OTA -->
+    <string name="aex_ota_title">AEX Updates</string>
+    <string name="aex_ota_summary">Get latest build</string>
+
+    <!-- Expanded desktop -->
+    <string name="power_menu_expanded_desktop">Expanded desktop</string>
+    <string name="expanded_hide_nothing">Hide nothing</string>
+    <string name="expanded_hide_status">Hide status bar</string>
+    <string name="expanded_hide_navigation">Hide navigation bar</string>
+    <string name="expanded_hide_both">Hide both</string>
+    <string name="expanded_nothing_to_show">To add a custom per-app configuration for expanded state, set "Enabled for all" to the off position</string>
+    <string name="expanded_desktop_state">Expanded state</string>
+    <string name="expanded_enabled_for_all">Enabled for all</string>
+    <string name="expanded_user_configurable">User configurable</string>
+    <string name="expanded_desktop_style">Expanded desktop style</string>
+    <string name="expanded_desktop_style_description">Choose a default expanded desktop style</string>
+    <string name="expanded_desktop_title">Expanded desktop options</string>
+
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+
+    <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Screenshot sound</string>
+    <string name="screenshot_sound_summary">Plays sound effect when screenshot is taken</string>
+
+    <!-- Advanced night mode brightness -->
+    <string name="night_brightness_category">Brightness</string>
+    <string name="night_brightness_value_title">Lower brightness if Night Light</string>
+    <string name="night_bright_disabled">Disabled</string>
+    <string name="night_bright_minimum">Minimum brightness</string>
+    <string name="night_bright_low">Low brightness</string>
+    <string name="night_bright_medium">Medium brightness</string>
+
+    <!-- Notification volume -->
+    <string name="link_volume_option_title">Link ring and notification volume</string>
+    <string name="notification_volume_option_title">Notification volume</string>
+    <string name="ring_notification_volume_option_title">Ring and notification volume</string>
+
+    <!-- App Ops Settings -->
+    <!-- App Ops Categories -->
+    <string name="app_ops_cat_location">Location</string>
+    <string name="app_ops_cat_personal">Personal</string>
+    <string name="app_ops_cat_messaging">Messaging</string>
+    <string name="app_ops_cat_media">Media</string>
+    <string name="app_ops_cat_device">Device</string>
+    <string name="app_ops_cat_bootup">Bootup</string>
+
+    <!-- [CHAR LIMIT=NONE] App ops labels -->
+    <string name="app_ops_access_camera">Camera</string>
+    <string name="app_ops_access_location">Location</string>
+    <string name="app_ops_access_notifications">Notifications</string>
+    <string name="app_ops_activate_vpn">VPN</string>
+    <string name="app_ops_auto_start">Autostart</string>
+    <string name="app_ops_delete_call_log">Delete call log</string>
+    <string name="app_ops_delete_contacts">Delete contacts</string>
+    <string name="app_ops_delete_mms">Delete MMS</string>
+    <string name="app_ops_delete_sms">Delete SMS</string>
+    <string name="app_ops_draw_on_top">Draw on top</string>
+    <string name="app_ops_get_usage_stats">Get usage stats</string>
+    <string name="app_ops_keep_device_awake">Keep awake</string>
+    <string name="app_ops_make_phone_call">Make call</string>
+    <string name="app_ops_modify_calendar">Update calendar</string>
+    <string name="app_ops_modify_call_log">Update call log</string>
+    <string name="app_ops_modify_clipboard">Modify clipboard</string>
+    <string name="app_ops_modify_contacts">Update contacts</string>
+    <string name="app_ops_modify_settings">Update settings</string>
+    <string name="app_ops_mute_unmute_microphone">Mute/unmute mic</string>
+    <string name="app_ops_play_audio">Play audio</string>
+    <string name="app_ops_post_notification">Post notification</string>
+    <string name="app_ops_project_media">Project media</string>
+    <string name="app_ops_read_calendar">Read calendar</string>
+    <string name="app_ops_read_call_log">Read call log</string>
+    <string name="app_ops_read_clipboard">Read clipboard</string>
+    <string name="app_ops_read_contacts">Read contacts</string>
+    <string name="app_ops_read_mms">Read MMS</string>
+    <string name="app_ops_read_sms">Read SMS</string>
+    <string name="app_ops_receive_sms">Receive SMS</string>
+    <string name="app_ops_record_audio">Record audio</string>
+    <string name="app_ops_send_mms">Send MMS</string>
+    <string name="app_ops_send_sms">Send SMS</string>
+    <string name="app_ops_toast_window">Toast messages</string>
+    <string name="app_ops_use_alarm_volume">Alarm volume</string>
+    <string name="app_ops_use_audio_focus">Audio focus</string>
+    <string name="app_ops_use_bluetooth_volume">Bluetooth volume</string>
+    <string name="app_ops_use_master_volume">Master volume</string>
+    <string name="app_ops_use_media_buttons">Media buttons</string>
+    <string name="app_ops_use_media_volume">Media volume</string>
+    <string name="app_ops_use_notification_volume">Notification volume</string>
+    <string name="app_ops_use_ring_volume">Ringtone volume</string>
+    <string name="app_ops_use_vibrate">Haptic feedback</string>
+    <string name="app_ops_use_voice_volume">Voice call volume</string>
+    <string name="app_ops_write_mms">Write MMS</string>
+    <string name="app_ops_write_sms">Write SMS</string>
+    <string name="app_ops_use_fingerprint">Fingerprint</string>
+    <string name="app_ops_add_voicemail">Voicemail</string>
+    <string name="app_ops_read_phone_state">Access phone state</string>
+    <string name="app_ops_scan_wifi">Scan WiFi Networks</string>
+    <string name="app_ops_change_wallpaper">Change wallpaper</string>
+    <string name="app_ops_assist_structure">Assist structure</string>
+    <string name="app_ops_assist_screenshot">Screenshot</string>
+    <string name="app_ops_use_body_sensors">Body sensors</string>
+    <string name="app_ops_read_cell_broadcasts">Cell broadcasts</string>
+    <string name="app_ops_mock_location">Mock location</string>
+    <string name="app_ops_read_external_storage">Read ext. storage</string>
+    <string name="app_ops_write_external_storage">Write ext. storage</string>
+    <string name="app_ops_turn_on_screen">Turn screen on</string>
+    <string name="app_ops_get_accounts">Device accounts</string>
+    <string name="app_ops_run_in_background">Run in background</string>
+    <string name="app_ops_accessibility_volume">Accessibility volume</string>
+    <string name="app_ops_read_phone_numbers">Read phone number</string>
+    <string name="app_ops_request_install_packages">Install packages</string>
+    <string name="app_ops_picture_in_picture">PiP</string>
+    <string name="app_ops_app_start_foreground">Start foreground</string>
+    <string name="app_ops_answer_phone_calls">Answer calls</string>
+    <string name="app_ops_boot_completed">Auto start</string>
+
+   <!-- Root Management -->
+    <string name="rootmanagement_title">Root management</string>
+    <string name="rootmanagement_dashboard_summary">Manage root access</string>
+
+    <!-- Dummy string needed to hide SuperSU from launcher, no need to translate -->
+    <string name="supersu_title">SuperSU</string>
+
+    <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+    <string name="local_backup_password_title">Desktop backup password</string>
+
+    <!-- Battery saver color -->
+    <string name="battery_saver_color_title">Warning color</string>
+    <string name="battery_saver_color_summary">Enable orange status - navigation bars when battery saver is activated</string>
+
+    <!-- Wakeup options -->
+    <string name="wakeup_when_plugged_unplugged_title">Wake up on charge</string>
+    <string name="wakeup_when_plugged_unplugged_summary">Wake up device if charger is plugged/unplugged.</string>
+
+    <!-- UI debug setting: show CPU info? [CHAR LIMIT=25] -->
+    <string name="show_cpu_info">Show CPU info</string>
+    <!-- UI debug setting: show cpu usage summary [CHAR LIMIT=50] -->
+    <string name="show_cpu_info_summary">Screen overlay showing current CPU info</string>
+
+    <string name="dashboard_conditions_title">Dashboard conditions</string>
+    <string name="summary_dashboard_conditions_enabled">Dashboard conditions are enabled</string>
+    <string name="summary_dashboard_conditions_disabled">Dashboard conditions are disabled</string>
+
+    <!-- Custom light color -->
+    <string name="light_customization">Led light notification</string>
+    <string name="custom_light_title">Light color</string>
+    <string name="custom_light_on_time_title">"Light ON time during led pulse (ms)"</string>
+    <string name="custom_light_off_time_title">"Light OFF time during led pulse (ms)"</string>
+    <string name="app_notifications_info_desc">Tap on one of above channels to configure their light colors and other options</string>
+    <string name="value_equals_default">Def</string>
+    <string name="show_light_on_zen_title">Blink during Do Not Disturb</string>
+
+    <!-- Volume settings - Volume adjustment sound -->
+    <string name="volume_adjust_sounds_title">Volume adjustment sounds</string>
+
+    <!-- Reset battery stats -->
+    <string name="ok">Ok</string>
+    <string name="menu_stats_reset">Reset stats</string>
+    <string name="reset_stats_msg">Battery history stats are going to be reset</string>
+
+    <!-- Volume Steps -->
+    <string name="volume_steps_title">Volume steps</string>
+    <string name="volume_steps_alarm_title">Volume steps: Alarm</string>
+    <string name="volume_steps_dtmf_title">Volume steps: DTMF</string>
+    <string name="volume_steps_music_title">Volume steps: Music</string>
+    <string name="volume_steps_notification_title">Volume steps: Notification</string>
+    <string name="volume_steps_ring_title">Volume steps: Ringer</string>
+    <string name="volume_steps_system_title">Volume steps: System</string>
+    <string name="volume_steps_voice_call_title">Volume steps: Voice Call</string>
+    <string name="volume_steps_reset">Reset</string>
+    <string name="volume_steps_60">60</string>
+    <string name="volume_steps_45">45</string>
+    <string name="volume_steps_30">30</string>
+    <string name="volume_steps_15">15</string>
+    <string name="volume_steps_7">7</string>
+    <string name="volume_steps_5">5</string>
+
+    <string name="dashboard_suggestions_title">Dashboard suggestions</string>
+    <string name="summary_dashboard_suggestions_enabled">Dashboard suggestions are enabled</string>
+    <string name="summary_dashboard_suggestions_disabled">Dashboard suggestions are disabled</string>
+
+    <!-- Dashboard Category -->
+    <string name="dashboard_category">Dashboard options</string>
+
+    <!-- Encryption and credential -->
+    <string name="custom_encryption_and_credential_settings_summary_on">Device is encrypted</string>
+    <string name="custom_encryption_and_credential_settings_summary_off">Device is decrypted</string>
+
+    <!-- Android debugging over WiFi -->
+    <string name="adb_over_network">ADB over network</string>
+    <string name="adb_over_network_summary">Enable TCP/IP debugging over network interfaces (Wi-Fi, USB networks). This setting is reset on reboot</string>
+    <!-- Warning for Adb over Network -->
+    <string name="adb_over_network_warning">WARNING: When ADB over network is enabled, your phone is open for intrusions on all connected networks, including GSM data network!\n\nOnly use this feature when you are connected on trusted networks.\n\nDo you really want to enable this function?</string>
+
+    <!-- Vibrate on plug -->
+    <string name="vibration_on_charge_state_changed_title">Vibrate on plug</string>
+
+    <string name="alert_on_charged_level_title">Optimal charge level alert</string>
+    <string name="alert_on_charged_level_summary">Notify and play sound/vibrate on optimal charge level if screen is off since at least 1 min.\nNotification can be disabled separately long pressing on it.</string>
+    <string name="alert_on_charged_level_dis">Disabled</string>
+    <string name="alert_on_charged_level_80">"80%"</string>
+    <string name="alert_on_charged_level_90">"90%"</string>
+    <string name="alert_on_charged_level_99">"99%"</string>
+
+    <!-- Themes -->
+    <string name="theme_category_title">System Theme</string>
+    <string name="system_theme_style_title">UI style</string>
+    <string name="system_theme_style_auto">Wallpaper based</string>
+    <string name="system_theme_style_light">Light UI</string>
+    <string name="system_theme_style_dark">Dark UI</string>
+    <string name="system_theme_style_black">Black UI</string>
+    <string name="system_theme_style_extended">Extended UI</string>
+    <string name="system_theme_style_chocolate">Chocolate UI</string>
+    <string name="theme_applied_toast">Theme applied.</string>
+    <string name="applying_theme_toast">Applying theme, please wait...</string>
+    <string name="substratum_installed_title">System themes are unavailable because a Substratum overlay is installed. Please uninstall all overlays targeting Android System to proceed.</string>
+    <string name="force_allow_system_themes_title">Allow system themes and fonts alongside substratum</string>
+    <string name="force_allow_system_themes_summary">Allows you to use following themes and fonts options inspite of substratum installed.</string>
+    <string name="force_theme_warning_title">Warning !</string>
+    <string name="force_theme_warning_message">This could cause conflicts between substratum themes and system themes. We hope you know what are you getting into. #DontBlameUsLater :D</string>
+
+    <!-- MSIM Manual provisioning -->
+    <string name="sim_enabler_summary"><xliff:g id="displayName">%1$s</xliff:g> is <xliff:g id="status" example="disabled">%2$s</xliff:g></string>
+    <string name="sim_enabled">enabled</string>
+    <string name="sim_disabled">disabled</string>
+    <string name="sim_missing">missing or faulty</string>
+    <string name="sim_enabler_need_disable_sim">SIM card will be deactivated. Do you want to continue?</string>
+    <string name="sim_enabler_will_disable_sim_title">Attention</string>
+    <string name="sim_enabler_need_switch_data_service">This SIM will be disabled and SIM <xliff:g id="slotid">%1$s</xliff:g> will be used for data services. Are you sure you want to continue?</string>
+    <string name="sim_enabler_airplane_on">Unable to perform the operation while airplane mode is on.</string>
+    <string name="sim_enabler_in_call">Unable to perform the operation while in call.</string>
+    <string name="sim_enabler_both_inactive">Can\'t disable all SIM cards</string>
+    <string name="sim_enabler_enabling">Activating\u2026</string>
+    <string name="sim_enabler_disabling">Deactivating\u2026</string>
+    <string name="sub_activate_success">SIM activated.</string>
+    <string name="sub_activate_failed">Activation failed.</string>
+    <string name="sub_deactivate_success">SIM deactivated.</string>
+    <string name="sub_deactivate_failed">Deactivation failed.</string>
+    <string name="available_sims_title">Available SIM cards</string>
+
+    <!-- Notification log -->
+    <string name="notification_log_summary">Show notifications history log</string>
+
+    <!-- Scramble PIN Layout on Lockscreen -->
+    <string name="unlock_scramble_pin_layout_title">Scramble layout</string>
+    <string name="unlock_scramble_pin_layout_summary">Scramble PIN layout when unlocking device</string>
+
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">Quick unlock</string>
+    <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered. It is recommended that you use a pin under 6 digits. If PIN Crosses 6 digits, you may be locked out. You have been warned!</string>
+
+    <!-- Increasing ring tone volume -->
+    <string name="increasing_ring_volume_option_title">Increasing ring volume</string>
+    <string name="increasing_ring_min_volume_title">Start volume</string>
+    <string name="increasing_ring_ramp_up_time_title">Ramp-up time</string>
+
+
+    <!-- Display : Rotation -->
+    <string name="display_rotation_title">Rotation</string>
+    <string name="display_rotation_disabled">Disabled</string>
+    <string name="display_rotation_unit">degrees</string>
+    <string name="display_rotation_category_title">Rotation modes</string>
+    <string name="display_rotation_0_title">0 degrees</string>
+    <string name="display_rotation_90_title">90 degrees</string>
+    <string name="display_rotation_180_title">180 degrees</string>
+    <string name="display_rotation_270_title">270 degrees</string>
+
+    <!-- Pass swipe-up-to-unlock -->
+    <string name="lock_directly_show_password">Directly show password entry</string>
+    <string name="lock_directly_show_pattern">Directly show pattern view</string>
+    <string name="lock_directly_show_pin">Directly show PIN entry</string>
+    <string name="lock_directly_show_summary">Skip the swipe up to unlock screen when unlocking the device</string>
+
+    <!-- Sizes for pattern lockscreen -->
+    <string name="lock_pattern_size_3" translatable="false">3 \u00d7 3</string>
+    <string name="lock_pattern_size_4" translatable="false">4 \u00d7 4</string>
+    <string name="lock_pattern_size_5" translatable="false">5 \u00d7 5</string>
+    <string name="lock_pattern_size_6" translatable="false">6 \u00d7 6</string>
+
+    <string name="lock_settings_picker_pattern_size_message">Choose a pattern size</string>
+    <!-- Whether a visible red line will be drawn after the user has drawn the unlock pattern incorrectly -->
+    <string name="lockpattern_settings_enable_error_path_title">Show pattern error</string>
+    <!-- Whether the dots will be drawn when using the lockscreen pattern -->
+    <string name="lockpattern_settings_enable_dots_title">Show pattern dots</string>
+
+    <!-- Lock screen vibrate settings -->
+    <string name="lockscreen_vibrate_enabled_title">Vibrate</string>
+    <string name="lockscreen_vibrate_enabled_head">Vibrate when unlocking</string>
+
+    <!-- Force authorize substratum packages -->
+    <string name="force_authorize_substratum_packages_title">Force authorize every theme app</string>
+    <string name="force_authorize_substratum_packages_summary">Allow theme apps from unknown sources</string>
+
+    <!-- Manage applications: show substratum overlays -->
+    <string name="filter_substratum_apps">Substratum overlays</string>
+    <string name="menu_show_substratum">Show overlays</string>
+    <string name="menu_hide_substratum">Hide overlays</string>
+
+    <!-- Default USB configuration -->
+    <string name="select_default_usb_configuration_title">Select default USB configuration</string>
+    <string name="select_default_usb_configuration_dialog_title">Select USB Configuration</string>
+    <string name="default_usb_configuration" translatable="false" >default</string>
+    <string name="select_usb_default_confguration_warning">WARNING: Default USB configuration is enabled also when device is locked!\n\nDo you really want to enable this configuration?</string>
+
+    <!-- USB paranoia mode -->
+    <string name="usb_paranoia_connect_title">USB secure connect</string>
+    <string name="usb_paranoia_connect_summary">Only enable charging and disable ADB when USB plugged on secure lock screens</string>
+    <string name="usb_category_title">USB</string>
+
+    <!-- Proximity wake -->
+    <string name="proximity_wake_title">Prevent accidental wake-up</string>
+    <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen</string>
+
+    <string name="background_processes_settings_title">Background processes</string>
+
+    <!-- Search -->
+    <string name="menu_search">Search apps</string>
+    <string name="menu_search_hint">Search apps\u2026</string>
+
+    <!-- [CHAR LIMIT=80]-->
+    <string name="fp_swipe_to_dismiss_notifications_title">Swipe fingerprint left or right to dismiss notifications</string>
+    <!--  [CHAR LIMIT=160]-->
+    <string name="fp_swipe_to_dismiss_notifications_summary">To dismiss your notifications, swipe left or right on the fingerprint sensor on the back of your phone.</string>
+
+    <!-- Fingerprint quick pulldown -->
+    <string name="fp_quick_pulldown_title">Fingerprint quick pulldown</string>
+    <string name="fp_quick_pulldown_summary">Expand the quick settings panel with only one swipe on the fingerprint sensor.</string>
+
+    <!-- Font picker -->
+    <string name="disable_fonts_installed_title">Font picker is unavailable to avoid conflicts with Substratum. Uninstall it if you wish to use the font picker.</string>
+    <string name="font_picker_title">Font</string>
+    <string name="font_picker_progress">Applying new font\u2026</string>
+
+    <!-- Per-app data restrictions -->
+    <string name="data_usage_app_restrict_data">Cellular data</string>
+    <string name="data_usage_app_restrict_data_summary">Enable usage of cellular data</string>
+    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi data</string>
+    <string name="data_usage_app_restrict_wifi_summary">Enable usage of Wi\u2011Fi data</string>
+
+</resources>
+
+
+
+
