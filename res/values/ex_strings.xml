@@ -63,6 +63,11 @@
     <string name="loading_devices_failed">Failed to load devices list</string>
     <string name="devices_list_empty">List is empty, tap the icon to reload</string>
     <string name="reload_list">Reload</string>
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Platform</string>
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">Total RAM</string>
 
     <!-- AEX OTA -->
     <string name="aex_ota_title">ROM Updates</string>
